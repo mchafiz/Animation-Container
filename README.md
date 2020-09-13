@@ -1,6 +1,8 @@
 # animationtest
 
-A new Flutter project.
+A new Animation Flutter project.
+<br>
+<img src="https://i.imgur.com/MgPnP9s.gif" width=540 height=1080 alt="" /><br/>
 
 ## Getting Started
 
